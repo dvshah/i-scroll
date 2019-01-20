@@ -1,0 +1,22 @@
+{
+  "name": "wittyhacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "node-webcam": "^0.4.6",
+    "opencv-build": "0.0.17",
+    "opencv4nodejs": "^4.14.0",
+    "pickle": "^0.2.0",
+    "socket.io": "^2.2.0"
+  }
+}

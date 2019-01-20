@@ -1,0 +1,10 @@
+{
+    "name": "i-scroll",
+    "version": "1.0",
+    "description": "Gesture Control",
+    "permissions" : ["tabs","*://*/*"],
+    "browser_action":{
+        "default_popup":"launchcam.html"
+    },
+    "manifest_version": 2
+ }
